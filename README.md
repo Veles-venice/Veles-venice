@@ -1,3 +1,10 @@
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saatvik333/saatvik333/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saatvik333/saatvik333/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+</picture>
+
 # 💫 About Me:
 👋 Hi, I’m Veles a developer exploring systems, scripting, and creative coding.  <br>⚡ Skilled in **Lua, JavaScript, C, and Python**, currently diving into **C++** and advanced **Linux workflows**.   <br>🌐 Passionate about open-source, hacking culture, and building tools that push customization further.  <br>🚀 Always learning, always tweaking — from **bash scripts** to **hypr configs**.  <br>
 
